@@ -1,0 +1,29 @@
+.container{
+  width:1000px;
+  margin:50px auto;
+  border: 10px solid lightblue;
+}
+
+h1{
+  margin:20px;
+}
+
+input{
+  margin:20px;
+}
+
+audio{
+  margin: 10px ;
+  padding-left: 20px;
+}
+
+li{
+  vertical-align: top;
+  list-style: none;
+  display: inline-block;
+  width: 200px;
+  height:200px;
+  border  :1px solid black;
+  margin:5px;
+  font-size: 13px;
+}
